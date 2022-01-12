@@ -1,0 +1,59 @@
+.fab{
+   font-size: 50px;
+   color: #fff;
+}
+h1{
+    color: greenyellow;
+}
+
+
+
+.section1{
+    background: #23263A;
+    padding-top: 100px;
+
+}
+
+.section2{
+    background:  #292F56;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section3{
+    background:  white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section4{
+    background: #303240;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+.do-box{
+    background: #51556E;
+   padding: 5%;
+   text-align: center;
+   width: 100%;
+   
+}
+.title{
+    color: greenyellow;
+}
+  
+.section3 img {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: contain;
+}
+
+.do-box img{
+    height: 60px;
+    max-width: 95%;
+    object-fit: contain;
+    
+
+}
+
