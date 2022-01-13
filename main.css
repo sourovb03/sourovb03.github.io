@@ -8,35 +8,35 @@ h1{
 
 
 
-.section1{
+#section1{
     background: #23263A;
     padding-top: 100px;
 
 }
 
-.section2{
+#section2{
     background:  #292F56;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.section3{
+#section3{
     background:  white;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-.section4{
+#section4{
     background: #303240;
     padding-top: 50px;
     padding-bottom: 50px;
    
 }
-.section5{
+#section5{
     background: #192051;
     padding-top: 50px;
 }
-.section6{
+#section6{
     background: #414141;
 }
 .do-box{
@@ -50,7 +50,7 @@ h1{
     color: greenyellow;
 }
   
-.section3 .img-fluid {
+#section3 .img-fluid {
 min-width: 100px;
 box-shadow: rgb(133, 133, 133);
     height: 100%;
